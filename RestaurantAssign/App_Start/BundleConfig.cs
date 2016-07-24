@@ -27,6 +27,7 @@ namespace RestaurantAssign
                       "~/Content/bootstrap.css",
                       "~/Content/bootstrap.main.css",
                       "~/Content/business-casual.css",
+                      "~/Content/font-awesome.css",
                       "~/Content/site.css"));
         }
     }
