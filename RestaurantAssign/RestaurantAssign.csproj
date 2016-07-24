@@ -183,11 +183,7 @@
     <Content Include="about.html" />
     <Content Include="Assest\backgroundImage.jpg" />
     <Content Include="Assest\bg.jpg" />
-    <Content Include="Assest\intro-pic.jpg" />
     <Content Include="Assest\logo.png" />
-    <Content Include="Assest\slide-1.jpg" />
-    <Content Include="Assest\slide-2.jpg" />
-    <Content Include="Assest\slide-3.jpg" />
     <Content Include="Assest\Slider\bg1.jpg" />
     <Content Include="Assest\Slider\bg2.jpg" />
     <Content Include="Assest\Slider\bg3.jpg" />
